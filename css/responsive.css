@@ -160,9 +160,9 @@
   .contact-me input{
     width: 100%;
   }
-     .menu-active{
-    width: 100%
-   }
+   .header-right {
+    display:none;
+  }
    .menu-icon{
     display:block;
    }
