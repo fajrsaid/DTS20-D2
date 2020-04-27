@@ -160,4 +160,10 @@
   .contact-me input{
     width: 100%;
   }
+     .menu-active{
+    width: 100%
+   }
+   .menu-icon{
+    display:block;
+   }
 }
