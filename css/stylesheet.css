@@ -116,6 +116,14 @@ header {
   float: left;
 }
 
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display:none;
+}
+
 .header-right {
   float: right;
   margin-left: -100px;
